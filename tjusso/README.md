@@ -14,20 +14,20 @@ categories: SSO
 # 中国知网CNKI
 访问下面的网址，“高校/机构”处选择“**天津大学**”：
 > http://fsso.cnki.net/
-<img src="" width="50%">
+<img src="https://raw.githubusercontent.com/sddpljx/blogpictures/master/tjusso/cnki.png" width="50%">
 
 在跳转至的“**天津大学校园统一认证系统**”中使用办公网账号和密码登录。
-<img src="" width="50%">
+<img src="https://raw.githubusercontent.com/sddpljx/blogpictures/master/tjusso/TJU.png" width="50%">
 
 # Web of Science
 访问
 > http://www.webofknowledge.com/
 
 在登录页面中，选择“机构登录”中的“**CHINA CERNET Federation**”
-<img src="" width="50%">
+<img src="https://raw.githubusercontent.com/sddpljx/blogpictures/master/tjusso/WebofScience.png" width="50%">
 
 选择后，点击“转到”按钮，在跳转后的页面中找到“**天津大学(Tianjin University)**”
-<img src="" width="50%">
+<img src="https://raw.githubusercontent.com/sddpljx/blogpictures/master/tjusso/CERNET.png" width="50%">
 
 在跳转至的“**天津大学校园统一认证系统**”中使用办公网账号和密码登录。
 
