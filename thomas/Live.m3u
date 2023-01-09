@@ -3,6 +3,8 @@
 https://epg.112114.xyz/douyu/74751
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sddpljx/transition/main/501761.jpg?token=GHSAT0AAAAAAB3OBOSLEO4YHCXEU6N3DV3IY324ISQ" group-title="SMM2", 白白的胖胖呀
 https://epg.112114.xyz/douyu/501761
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sddpljx/transition/main/501761.jpg?token=GHSAT0AAAAAAB3OBOSLEO4YHCXEU6N3DV3IY324ISQ" group-title="SMM2", 白白的胖胖呀-备用
+http://rdp.ipowlab.top:5678/douyu.php?id=501761
 #EXTINF:-1 tvg-logo="null" group-title="LOL", PDD
 https://epg.112114.xyz/douyu/101
 #EXTINF:-1 tvg-logo="null" group-title="LOL", 神超
